@@ -4,7 +4,8 @@ Công cụ tạo video AI hàng loạt.
 
 ## Cài
 
-1. Tải **`Baru-AI.exe`** ở mục [Releases](../../releases) về — để đâu cũng được.
+1. Tải **[`Baru-AI.exe`](../../releases/latest/download/Baru-AI.exe)** về — để đâu cũng được.
+   (Link này luôn trỏ bản mới nhất.)
 2. Chạy nó. App hỏi **cài vào đâu**; chọn ổ còn nhiều chỗ, ví dụ `D:\Baru-AI`.
    App tự chép mình sang đó và tạo lối tắt ngoài Desktop.
 3. Lần đầu app hiện bảng **Chuẩn bị** và tự tải:
@@ -29,7 +30,7 @@ Muốn gỡ thì xoá đúng thư mục đó là sạch.
 
 ## Cập nhật
 
-Tải `Baru-AI.exe` bản mới rồi chạy — app tự thay bản cũ ở nơi đã cài,
+Tải lại [`Baru-AI.exe`](../../releases/latest/download/Baru-AI.exe) rồi chạy — app tự thay bản cũ ở nơi đã cài,
 không phải cài lại từ đầu, không mất engine hay model.
 
 ## Lưu ý
