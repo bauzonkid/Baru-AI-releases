@@ -30,8 +30,12 @@ Muốn gỡ thì xoá đúng thư mục đó là sạch.
 
 ## Cập nhật
 
-Tải lại [`Baru-AI.exe`](../../releases/latest/download/Baru-AI.exe) rồi chạy — app tự thay bản cũ ở nơi đã cài,
-không phải cài lại từ đầu, không mất engine hay model.
+Trong app, bấm **↻ Cập nhật** ở góc dưới trái. Có bản mới thì app hỏi một câu,
+đồng ý là nó tải rồi tự mở lại vào bản mới — engine và model giữ nguyên.
+
+Cách thủ công vẫn dùng được: tải lại
+[`Baru-AI.exe`](../../releases/latest/download/Baru-AI.exe) rồi chạy, app tự
+thay bản cũ ở nơi đã cài.
 
 ## Lưu ý
 
